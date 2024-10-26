@@ -1,13 +1,18 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a Research Assistant at the [Indian Institute of Science, Bangalore](https://iisc.ac.in/), advised by [Prof. Pradipta Biswas](https://cambum.net/PB/). I currently work on problems related to Computer Vision, focusing on Diffusion Models. 
+
+In parallel, I work on Emotion Analysis in colloboration with [Dr. Andrea Kohlase](https://www.hnu.de/andrea-kohlhase) & [Dr. Michael Kohlase](https://en.wikipedia.org/wiki/Michael_Kohlhase) from the 
+[University of Applied Sciences Neu-Ulm, Germany](https://www.hnu.de/en/university).
+
+Before this, I led a research project while completing my Bachelor's at [NMIT, Bangalore](https://www.nmit.ac.in/) advised by [Dr. Krishanarao Venkatesh](https://nmit.irins.org/profile/150518), [Dr. Vasanthakumar G U](https://nmit.irins.org/profile/130197) & [Dr. Dileep Reddy Bolla](https://vidwan.inflibnet.ac.in/profile/176361) in colloboration with [Unisys](https://www.unisys.com/).
 
 A data-driven personal website
 ======
